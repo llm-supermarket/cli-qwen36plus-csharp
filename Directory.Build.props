@@ -1,0 +1,25 @@
+<Project>
+  <PropertyGroup>
+    <Authors>yetanotherchris</Authors>
+    <Copyright>Copyright © 2026-$([System.DateTime]::Now.Year) yetanotherchris</Copyright>
+    <PackageProjectUrl>https://github.com/llm-supermarket/cli-qwen36plus-csharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/llm-supermarket/cli-qwen36plus-csharp</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <VersionPrefix>1.0.0</VersionPrefix>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <NetAppVersion>net10.0</NetAppVersion>
+    <NetTestVersion>net10.0</NetTestVersion>
+  </PropertyGroup>
+</Project>

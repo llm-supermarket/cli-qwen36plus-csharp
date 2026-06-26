@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.suo
+*.log
+test_*.txt
+test_*.bin
+test_decrypted.txt
+test_encrypted.bin
+test_input.txt
