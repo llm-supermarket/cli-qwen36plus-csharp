@@ -5,7 +5,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/llm-supermarket/cli-qwen36plus-csharp/releases/download/v1.0.0/cli-qwen36plus-csharp-windows-x64.exe",
-      "hash": "",
+      "hash": "0f6751956b966771da76cf6657508a44e3d8f67d438b75b36811225c01406243",
       "bin": [
         [
           "cli-qwen36plus-csharp-windows-x64.exe",
